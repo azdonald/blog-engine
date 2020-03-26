@@ -1,4 +1,4 @@
-SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:presario@localhost/blognew'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://blog:passsed@localhost/blognew'
 
 
 CSRF_ENABLED = True
